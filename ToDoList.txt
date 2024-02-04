@@ -1,0 +1,5 @@
+DONE NEDC autonomy
+add the acceleration output dv/dt => for all simulin
+test all block
+print all simulink in the end of the work to avoid printing after each modification
+One Notebook for this projet + utils.py for function
