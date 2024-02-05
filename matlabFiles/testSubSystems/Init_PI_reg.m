@@ -64,7 +64,8 @@ R_dc=0.25 ; %% Ohm %% internal batterie resistnace
 
 %% Speed controlor (PI) %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 K_p= 0.05;%% 0.03
-w_I= 0.05; %% 0.01  0.005
+w_I= 0.05; %%
+%%w_I= 0.01; %% 0.01  0.005
 P_coef= K_p;
 I_coef = K_p*w_I;
 
