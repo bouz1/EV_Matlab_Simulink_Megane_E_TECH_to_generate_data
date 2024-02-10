@@ -78,7 +78,7 @@ data= readtable('../../data/processed/dfgps_fin.csv');
 time= data.time; 
 kmph= data.kmph; 
 sim_time=max(time); %%% sim time 
-rouad_grad=data.rouad_grad %% Road gradient
+rouad_grad=data.rouad_grad_deg_f %% Road gradient
 Ts= 0.5; %% Simulation step
 PWr= power_max/m0; %% = 100 W/kg > 34 ==> class 3 of WLTC ; The power-to-mass ratio (PWr) Pwr = Power[w]/masse[kg]
 

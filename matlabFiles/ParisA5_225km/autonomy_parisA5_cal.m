@@ -10,4 +10,4 @@ display(autonomy);
 %% Results
 % Autonomy WLTC
 % autonomy =
-% 283.1547
+%  287.5577
