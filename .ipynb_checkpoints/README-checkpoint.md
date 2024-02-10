@@ -33,6 +33,7 @@ EV simulation, Matlab, Simulink, WLTP , NEDC, EV Dataset, Electric vehicle datas
 * [Github repository of this projet](https://github.com/bouz1/EV_Matlab_Simulink_Megane_E_TECH_to_generate_data)
 * [The main file as HTML](https://bouz1.github.io/fils/MEGAN_ETECH_220/EV_Megan_E_TECH_Simulation_V0.html)
 * [The main file as notebook](https://github.com/bouz1/EV_Matlab_Simulink_Megane_E_TECH_to_generate_data/blob/main/Notebooks/EV_Megan_E_TECH_Simulation_V0.ipynb)
+* [The main file as PDF](https://github.com/bouz1/EV_Matlab_Simulink_Megane_E_TECH_to_generate_data/blob/main/otherFiles/EV_Megan_E_TECH_Simulation_V0.pdf)
 * [The ouput dataset link in Github](https://github.com/bouz1/EV_Matlab_Simulink_Megane_E_TECH_to_generate_data/tree/main/data/output)
 * [The ouput dataset link in Kaggle](https://www.kaggle.com/datasets/bozzabb/ev-matlabsimulink-megane-e-tech-time-series-data/data)
 
