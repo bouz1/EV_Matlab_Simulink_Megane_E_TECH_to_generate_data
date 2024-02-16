@@ -72,4 +72,6 @@ EV simulation, Matlab, Simulink, WLTP , NEDC, EV Dataset, Electric vehicle datas
 		* [Initialisation ](#title_32)
 		* [Simulation blocks ](#title_33)
 # Project structur
+<pre>
 EV_Matlab_Simulink_Megane_E_TECH_to_generate_data<br>├── data<br>│   ├── output<br>│   ├── processed<br>│   └── raw<br>├── matlabFiles<br>│   ├── NEDC<br>│   ├── ParisA5_225km<br>│   ├── Prints<br>│   ├── Speed_autonomy<br>│   ├── testSubSystems<br>│   └── WLTC<br>├── Notebooks<br>│   └── old_draft<br>└── otherFiles<br>    └── figures
+</pre>
